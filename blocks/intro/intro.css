@@ -10,24 +10,11 @@
 
 @media (max-width: 1024px) {
     .intro {
-        max-width: 928px;
-    }
-}
-
-@media (max-width: 1000px) {
-    .intro {
-        max-width: 93%;
+        max-width: 91%;
     }
 }
 
 @media (max-width: 800px) {
-    .intro {
-        max-width: 720px;
-        padding-top: 88px;
-    }
-}
-
-@media (max-width: 765px) {
     .intro {
         max-width: 93%;
         padding-top: 88px;
